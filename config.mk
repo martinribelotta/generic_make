@@ -1,0 +1,5 @@
+CXX      := $(CROSS_COMPILE)g++
+LDXX     := $(CROSS_COMPILE)g++
+
+CXXFLAGS := 
+LDXXFLAGS:= 
